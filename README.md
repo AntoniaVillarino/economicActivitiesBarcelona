@@ -13,4 +13,4 @@ The cleaning and aggregations of the data can be found in [1-Data-preparation.ip
 
 After cleaning and aggregating the data, I am going to do some Exploratory Data Analysis
 
-The visualization and  ---- of the data can be found in [2-Exploratory-data-analysis.ipynb](2-Exploratory-data-analysis.ipynb)
+The analysis and visualization of the data can be found in [2-Exploratory-data-analysis.ipynb](2-Exploratory-data-analysis.ipynb)
